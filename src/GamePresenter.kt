@@ -1,4 +1,4 @@
-class GamePresenter {
+object GamePresenter {
   // view is a property, but not set via constructor. Also, no getter.
   // Therefore, explicit setter needs to be used.
   // ? needs to be explicit to say it's nullable.
